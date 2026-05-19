@@ -7,11 +7,11 @@ This application allows users to manage daily tasks efficiently by adding, compl
 
 The project demonstrates the implementation of React Hooks, state management, event handling, conditional rendering, and responsive UI design.
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 [https://exquisite-choux-4ec787.netlify.app/](https://exquisite-choux-4ec787.netlify.app/)
 
-## ✨ Features
+## Features
 
 * Add new tasks
 * Mark tasks as completed
@@ -20,7 +20,7 @@ The project demonstrates the implementation of React Hooks, state management, ev
 * Responsive and user-friendly interface
 * Real-time updates using React state
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * React.js
 * JavaScript
@@ -29,7 +29,7 @@ The project demonstrates the implementation of React Hooks, state management, ev
 * Git & GitHub
 * Netlify
 
-## 📂 Project Structure
+## Project Structure
 
 Todo-List-App/
 │
@@ -43,7 +43,7 @@ Todo-List-App/
 ├── package-lock.json
 └── README.md
 
-## ▶️ Installation and Setup
+## Installation and Setup
 
 ### Step 1: Clone Repository
 
