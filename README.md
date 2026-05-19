@@ -29,20 +29,6 @@ The project demonstrates the implementation of React Hooks, state management, ev
 * Git & GitHub
 * Netlify
 
-## Project Structure
-
-Todo-List-App/
-│
-├── public/
-├── src/
-│   ├── App.js
-│   ├── App.css
-│   ├── index.js
-│
-├── package.json
-├── package-lock.json
-└── README.md
-
 ## Installation and Setup
 
 ### Step 1: Clone Repository
